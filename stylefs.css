@@ -1,0 +1,42 @@
+body { 
+  
+    background: rgb(148, 148, 150);
+
+}
+
+.city {
+    background-color: cadetblue;
+    color: white;
+    border: 2px solid black;
+    margin: 15px;
+    text-align: center;
+
+  }
+
+  footer {
+ 
+    position:absolute;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    right: 38%;
+    width: 300px; 
+    margin: 4px;
+
+
+  }
+
+  .post {
+
+
+    color: chocolate;
+    background-color: cadetblue;
+    border: 2px solid black;
+    margin: 15px;
+    text-align: center;
+    height: 500px;
+
+
+
+  }
+
